@@ -7,3 +7,4 @@ Trabalho embarcados
 [get started - initial settings](https://www.rust-lang.org/pt-BR/learn/get-started)
 
 
+[creating an initial project in Rust](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html)
