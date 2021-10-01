@@ -1,7 +1,8 @@
 fn main() {
-    let a:u16 = 0x6DB7;
-    let result:u16;
+    let a:i32 = 0xC5;
+    let result:i32;
     
    result = !a;
    println!("(!a) => 0x{:x} ",result);
+   
 }
