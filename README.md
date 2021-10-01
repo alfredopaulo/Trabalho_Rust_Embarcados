@@ -1,10 +1,17 @@
-# Embarcados
+# TRABALHO DE EMBARCADOS II
 
-Trabalho embarcados
+### Exemplos em Rust
+---
 
-[Rust-Bitwise Operators](https://www.tutorialspoint.com/rust/rust_bitwise_operators.htm)
+<img src="https://github.com/Lyem/Lyem/blob/main/computer-illustration.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right">
 
-[get started - initial settings](https://www.rust-lang.org/pt-BR/learn/get-started)
-
-
-[creating an initial project in Rust](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html)
+## Componentes
+> [Alfredo Paulo](https://github.com/AlfredoPaulo)
+> 
+> [Cristian Freire](https://github.com/cristianfreire)
+> 
+> [Lucas Caravlho](https://github.com/Luscarvalho)
+> 
+> [Waleson Melo](https://github.com/waleson-melo)
+> 
+> [Walter Jonas](https://github.com/WALTER-OBS-DEBUG)
