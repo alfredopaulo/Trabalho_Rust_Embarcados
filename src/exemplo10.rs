@@ -4,8 +4,8 @@ fn main(){
     let result:u16;
 
     result = a | b;
-    println!("(a) => 0x{:x}", a);
-    println!("(b) => 0x{:x}", b);
-    println!("(a | b) => 0x{:x}", result);
+    println!("(a) => 0x{:x} ", a);
+    println!("(b) => 0x{:x} ", b);
+    println!("(a | b) => 0x{:x} ", result);
 
 }
