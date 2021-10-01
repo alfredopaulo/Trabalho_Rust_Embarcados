@@ -3,6 +3,6 @@ fn main(){
     let result:u16;
 
     result = !b;
-    println!("(b) => 0x{:x}", b);
-    println!("(!b) => 0x{:x}", result);
+    println!("(b) => 0x{:x} ", b);
+    println!("(!b) => 0x{:x} ", result);
 }
