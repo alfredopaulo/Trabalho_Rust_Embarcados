@@ -4,4 +4,5 @@ fn main() {
     
    result = !a;
    println!("(!a) => 0x{:x} ",result);
+   
 }
