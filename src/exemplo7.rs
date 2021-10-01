@@ -1,5 +1,5 @@
 fn main(){
-    let b:u16 = 0xA726;
+    let b:u16 = 0xa726;
     let result:u16;
 
     result = !b;

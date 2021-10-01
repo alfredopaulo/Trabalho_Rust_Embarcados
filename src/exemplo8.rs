@@ -6,6 +6,6 @@ fn main(){
     result = a & b;
     println!("(a) => 0x{:x}", a);
     println!("(b) => 0x{:x}", b);
-    println!("(a && b) => 0x{:x}", result);
+    println!("(a & b) => 0x{:x}", result);
 
 }
