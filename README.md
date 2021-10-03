@@ -1,6 +1,6 @@
 <h1 align="center"> <img width="40px" src="https://cdn.discordapp.com/attachments/877373208448368670/894256713958555678/sasas.png"/> TRABALHO II — RUST <img width="40px" src="https://cdn.discordapp.com/attachments/877373208448368670/894256713958555678/sasas.png"/> </h1>
 
-<img src="https://github.com/Lyem/Lyem/blob/main/computer-illustration.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/Lyem/Lyem/blob/main/computer-illustration.png?raw=true" width="360px" align="right">
 
 ## Componentes
 
