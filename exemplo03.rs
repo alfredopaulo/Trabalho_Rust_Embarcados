@@ -3,6 +3,5 @@ fn main() {
     let result:i32;
     
    result = !a;
-   println!("(!a) => 0x{:x} ",result);
-   
+   println!("(!a) => 0x{:x} ",result);  
 }
