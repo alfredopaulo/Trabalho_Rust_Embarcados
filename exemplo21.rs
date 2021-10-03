@@ -1,6 +1,6 @@
 //Walter Jonas
-//Operadores de deslocamento - Deslocando Bits a direita
-//Questão 21
+//Operadores de Deslocamento - Deslocando Bits a Direita
+//Exemplo 21
 
 fn main() {
     let x: u8 = 128;
