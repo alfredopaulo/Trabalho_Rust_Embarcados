@@ -10,7 +10,7 @@
 > 
 > [Lucas Caravlho](https://github.com/Luscarvalho)  **» Matrícula — 21955380**
 > 
-> [Waleson Melo](https://github.com/waleson-melo)  **» Matrícula — 2195xxxx**
+> [Waleson Melo](https://github.com/waleson-melo)  **» Matrícula — 21954228**
 > 
 > [Walter Jonas](https://github.com/WALTER-OBS-DEBUG)  **» Matrícula — 21953556**
 
