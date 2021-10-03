@@ -1,5 +1,5 @@
 //Walter Jonas
-//Operadores de Deslocamento - Deslocando Bits a Direita
+//Operadores de Deslocamento - Deslocando Bits a direita
 //Exemplo 22
 
 fn main() {
