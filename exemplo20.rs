@@ -1,5 +1,6 @@
 fn main() {
     let x: u8 = 1;
+
     println!("Operador de deslocamento - Bits à Esquerda\nValor de x: {:0>8b}", x);
     println!("x << 0 = {:0>8b}", x << 0);//Não deslocado
     println!("x << 1 = {:0>8b}", x << 1);
