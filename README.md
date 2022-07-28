@@ -18,3 +18,5 @@
 
 <a href="https://code.visualstudio.com//"><img src="https://img.shields.io/badge/Visual%20studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" /></a> \
 <a href="https://play.rust-lang.org/"><img src="https://img.shields.io/badge/Rust Playground-0D1117?style=for-the-badge&logo=Rust&logoColor=white" /> </a> 
+
+---
